@@ -8,7 +8,7 @@ draft: false
 images: []
 ---
 
-<img class="mb-2 mx-auto d-block" src="../images/img_RPC_AAE.png" alt="" >
+<img class="mb-2 mx-auto img-fluid" src="../images/img_RPC_AAE.png" alt="" >
 
 <section class="section section-sm">
   <div class="container">

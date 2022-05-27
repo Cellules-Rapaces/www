@@ -8,6 +8,7 @@ enableRobotsTXT = true
 languageCode = "fr-FR"
 paginate = 7
 rssLimit = 10
+publishDir = "docs"
 
 # Multilingual
 defaultContentLanguage = "fr"
