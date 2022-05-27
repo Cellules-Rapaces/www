@@ -97,7 +97,11 @@ button#doks-versions {
 }
 
 .offcanvas .nav-link {
-  color: rgba(0,0,0,.55);
+  color: rgba(255,255,255,.55);
+}
+
+.offcanvas-body {
+  background-color: rgba(0, 0, 0, 0.95);
 }
 
 .doks-subnavbar {
@@ -123,7 +127,7 @@ button#doks-versions {
 }
 
 .feather-chevron-down {
-  color: rgba(0,0,0,.55);
+  color: rgba(255,255,255,.55);
 }
 /*
 .navbar {
