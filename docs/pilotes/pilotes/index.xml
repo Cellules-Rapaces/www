@@ -1,8 +1,49 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Pilotes on</title><link>https://www.cellules-rapaces.fr/pilotes/pilotes/</link><description>Recent content in Pilotes on</description><generator>Hugo -- gohugo.io</generator><language>fr-FR</language><lastBuildDate>Tue, 06 Oct 2020 08:48:45 +0000</lastBuildDate><atom:link href="https://www.cellules-rapaces.fr/pilotes/pilotes/index.xml" rel="self" type="application/rss+xml"/><item><title>CoubyStark</title><link>https://www.cellules-rapaces.fr/pilotes/pilotes/coubystark/</link><pubDate>Tue, 13 Oct 2020 15:21:01 +0200</pubDate><guid>https://www.cellules-rapaces.fr/pilotes/pilotes/coubystark/</guid><description>💡
-En construction.
-Présentation #
-&amp;hellip;
-Setup #
-&amp;hellip;
-Meilleurs résultats #
-&amp;hellip;</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pilotes on </title>
+    <link>https://www.cellules-rapaces.fr/pilotes/pilotes/</link>
+    <description>Recent content in Pilotes on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-FR</language>
+    <lastBuildDate>Tue, 06 Oct 2020 08:48:45 +0000</lastBuildDate><atom:link href="https://www.cellules-rapaces.fr/pilotes/pilotes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CoubyStark</title>
+      <link>https://www.cellules-rapaces.fr/pilotes/pilotes/coubystark/</link>
+      <pubDate>Tue, 13 Oct 2020 15:21:01 +0200</pubDate>
+      
+      <guid>https://www.cellules-rapaces.fr/pilotes/pilotes/coubystark/</guid>
+      <description>Nom / Callsign : Frédéric / CoubyStark Age : 46 ans Région : Mont-de-Marsan Profession : Pilote et ingénieur Expérience Pilote IRL : ~3000 heures de vol  Expérience sur DCS #J&amp;rsquo;ai commencé à pratiquer DCS en 2019, avec rapidement l&amp;rsquo;objectif de revenir à la compétition. En 2021 je refonde les Cellules Rapaces avec l&amp;rsquo;objectif de reconstruire une équipe dédiée à l&amp;rsquo;approche eSport de la simulation de vol militaire.</description>
+    </item>
+    
+    <item>
+      <title>Madmat</title>
+      <link>https://www.cellules-rapaces.fr/pilotes/pilotes/madmat/</link>
+      <pubDate>Tue, 13 Oct 2020 15:21:01 +0200</pubDate>
+      
+      <guid>https://www.cellules-rapaces.fr/pilotes/pilotes/madmat/</guid>
+      <description>Nom / Callsign : Matthieu / Madmat Age : 24 ans Région : PACA Profession : ingénieur en informatique Expérience Pilote IRL : En train de passer le PPL  Expérience DCS #Environ 8 ans (2016), surtout du PvE et quelques vols à l’occasion avec les Badbirds. Deux modules de prédilections : Mirage 2000C et F-18. Depuis peu sur F-16 que je commence à bien maîtriser. Depuis 2 ans (2022), j’ai commencé les compétitions dans l&amp;rsquo;équipe Cellules Rapaces.</description>
+    </item>
+    
+    <item>
+      <title>Wolkern721</title>
+      <link>https://www.cellules-rapaces.fr/pilotes/pilotes/wolkern721/</link>
+      <pubDate>Tue, 13 Oct 2020 15:21:01 +0200</pubDate>
+      
+      <guid>https://www.cellules-rapaces.fr/pilotes/pilotes/wolkern721/</guid>
+      <description> Nom / Callsign : Guillaume / Wolkern Age : 28 ans Région : Mont-de-Marsan Profession : Développeur Java Expérience Pilote IRL : environ 100 h de vol (50h planeur, 50h vol moteur)  Expérience sur DCS #2 ans d’expérience sur DCS (2022), principalement du F16, un peu de Mirage F1 et depuis peu du F15E.
+Historique en compétition # Winter On Fire 2023, SATAL 2023, GamePlan  </description>
+    </item>
+    
+    <item>
+      <title>OuiOui</title>
+      <link>https://www.cellules-rapaces.fr/pilotes/pilotes/ouioui/</link>
+      <pubDate>Tue, 13 Oct 2020 15:21:01 +0200</pubDate>
+      
+      <guid>https://www.cellules-rapaces.fr/pilotes/pilotes/ouioui/</guid>
+      <description>Nom / Callsign : William / OuiOui Age : 21 ans Région : Mont-de-Marsan Profession : Développeur Android Expérience Pilote IRL : non  Expérience sur DCS #Environ 4 ans d’expérience sur DCS (2020), dont une bonne partie très occasionnelle avec des lives sur Twitch, sans module principal, juste pour passer du bon temps et rigoler avec les collègues.
+Depuis 2 ans j&amp;rsquo;ai une utilisation plus orientée compétitions avec les Rapaces dans différents types d’événements.</description>
+    </item>
+    
+  </channel>
+</rss>

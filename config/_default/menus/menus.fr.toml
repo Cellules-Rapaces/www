@@ -17,7 +17,25 @@
 [[main]]
   name = "CoubyStark"
   weight = 50
-  url = "/pilotes/pilotes/coubystark"
+  url = "/pilotes/coubystark/"
+  parent = "pilotes"
+
+[[main]]
+  name = "Madmat"
+  weight = 51
+  url = "/pilotes/madmat/"
+  parent = "pilotes"
+
+[[main]]
+  name = "Wolkern721"
+  weight = 52
+  url = "/pilotes/wolkern721/"
+  parent = "pilotes"
+
+[[main]]
+  name = "OuiOui"
+  weight = 53
+  url = "/pilotes/ouioui/"
   parent = "pilotes"
 
 [[main]]
