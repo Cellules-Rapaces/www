@@ -40,6 +40,7 @@ Il m'arrive de jouer GCI.
 - GamePlan 2024
 - Tournoi DCS Competitive 2v2 2024
 - Tournoi Phobetor F18 1v1 2024
+- Course Virpil Shadow’s Trophy 2024
 - Tournoi ACWS 1v1 2025
 - Tournoi BVR Cold War Manchots 2025
 - Tournoi ACWS 4v4 2025 (en cours)
