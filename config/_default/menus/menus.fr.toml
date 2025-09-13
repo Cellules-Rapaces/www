@@ -39,6 +39,12 @@
   parent = "pilotes"
 
 [[main]]
+  name = "Galinette"
+  weight = 54
+  url = "/pilotes/galinette/"
+  parent = "pilotes"
+
+[[main]]
   name = "Résultats"
   weight = 30
   url = "/resultats/"
