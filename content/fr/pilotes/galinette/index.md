@@ -3,7 +3,7 @@ title: "Galinette"
 description: "Raptor19"
 lead: ""
 date: 2025-09-13T15:21:01+02:00
-lastmod: 2025-09-19T08:30:00+02:00
+lastmod: 2025-09-13T08:30:00+02:00
 draft: false
 images: []
 weight: 170
