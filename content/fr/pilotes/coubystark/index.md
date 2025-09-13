@@ -36,7 +36,7 @@ Il m'arrive de jouer GCI.
 - Tournoi BVR BFR (2022, 2023)
 - Winter On Fire 2023 et Winter On Fire II 2024
 - SATAL 2023
-- Canyon Run Dagger One 2023 - 2025
+- Canyon Run Dagger One 2023 - 2025 / Vainqueur du tournoi duel #2
 - GamePlan 2024
 - Tournoi DCS Competitive 2v2 2024
 - Tournoi Phobetor F18 1v1 2024
